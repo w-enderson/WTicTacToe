@@ -104,11 +104,3 @@ h1 {
     opacity: 0.8;
 }
 
-footer {
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    text-align: center;
-    padding: 20px;
-    color: #198f8f;
-}
